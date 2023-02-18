@@ -1,1 +1,1 @@
-a script that creates an alia readme file
+0x03-shell_variables_expansions readme file
